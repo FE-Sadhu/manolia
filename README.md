@@ -24,3 +24,4 @@ current projects
 past projects
 <br>
 - [External Rust Cheat](https://deprived.life)
+- [External Osu Cheat](https://switchblad.es)
