@@ -5,6 +5,7 @@ hi, im manolia 🔮.
 
 @@advanced programming student.@@
 + living in copenhagen, denmark.
+- 19 years old.
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
