@@ -9,5 +9,9 @@ hi, im manolia 🔮.
 # 📖 reverse engineering, computer science
 
 current projects
-https://suicide.ooo - filehost and mail server
+[Slit Selfbot](https://github.com/manolia/Slit-Selfbot)
+[Filehost & Mail Server](https://suicide.ooo)
+
+past projects
+[External Rust Cheat](https://deprived.life)
 ```
