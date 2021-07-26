@@ -16,12 +16,12 @@ hi, im manolia 🔮.
 
 current projects
 <br>
-- [Slit Selfbot](https://github.com/manolia/Slit-Selfbot)
-- [Filehost & Mail Server](https://suicide.ooo)
+- [Slit selfbot](https://github.com/manolia/Slit-Selfbot)
+- [File host & Mail server](https://suicide.ooo)
   
 <br>
 
 past projects
 <br>
-- [External Rust Cheat](https://deprived.life)
-- [External Osu Cheat](https://switchblad.es)
+- [External rust cheat](https://deprived.life)
+- [External osu cheat](https://switchblad.es)
