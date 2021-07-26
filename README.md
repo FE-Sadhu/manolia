@@ -8,9 +8,9 @@ hi, im manolia 🔮.
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
-current projects
+<h2 align="center">current projects</h2>
 [Slit Selfbot](https://github.com/manolia/Slit-Selfbot)
 [Filehost & Mail Server](https://suicide.ooo)
 
-past projects
+<h2 align="center">past projects</h2>
 [External Rust Cheat](https://deprived.life)
