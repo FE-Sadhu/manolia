@@ -9,9 +9,6 @@ hi, im manolia 🔮.
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
-
-<br>
-<br>
 <br>
 
 current projects
