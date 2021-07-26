@@ -16,7 +16,6 @@ hi, im manolia 🔮.
 current projects
 <br>
 - [Slit Selfbot](https://github.com/manolia/Slit-Selfbot)
-<br>
 - [Filehost & Mail Server](https://suicide.ooo)
   
 <br>
