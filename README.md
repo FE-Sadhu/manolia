@@ -13,7 +13,6 @@ hi, im manolia 🔮.
 <br>
 <br>
 
-<center>
 current projects
 <br>
 - [Slit Selfbot](https://github.com/manolia/Slit-Selfbot)
@@ -25,4 +24,3 @@ current projects
 past projects
 <br>
 - [External Rust Cheat](https://deprived.life)
-</center>
