@@ -13,7 +13,7 @@ hi, im manolia 🖤.
 
 current projects
 <br>
-- [slit selfbot](https://github.com/manolia/Slit-Selfbot)
+- [slit discord selfbot](https://github.com/manolia/Slit-Selfbot)
 - [file host & mail server](https://suicide.ooo)
   
 <br>
