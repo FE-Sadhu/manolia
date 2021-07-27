@@ -20,5 +20,5 @@ current projects
 
 past projects
 <br>
-- [external rust cheat](https://deprived.life)
-- [external osu cheat](https://switchblad.es)
+- external rust cheat
+- external osu cheat
